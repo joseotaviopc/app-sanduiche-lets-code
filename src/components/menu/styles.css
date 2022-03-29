@@ -1,0 +1,14 @@
+.menu-container {
+  width: 680px;
+  height: 560px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 40px;
+}
+
+.menu-image {
+  width: 272px;
+  height: 238px;
+}

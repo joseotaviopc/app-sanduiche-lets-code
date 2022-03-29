@@ -1,0 +1,16 @@
+.app-wrapper {
+  width: 100%;
+  max-width: 1280px;
+  height: 720px;
+  margin: 0 auto;
+  background-color: #FFF;
+}
+
+.app-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 640px;
+  padding: 40px;
+}
+

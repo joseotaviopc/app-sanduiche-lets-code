@@ -1,0 +1,15 @@
+.menu-checkout {
+  justify-content: flex-start;
+}
+
+.menu-checkout-content {
+  margin: 1rem 0;
+}
+
+.menu-checkout-content h2 {
+  margin-bottom: 1rem;
+}
+
+.menu-checkout-content  li {
+  margin-bottom: .5rem;
+}

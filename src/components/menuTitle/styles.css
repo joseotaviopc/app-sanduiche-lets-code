@@ -1,0 +1,6 @@
+.menu-title {
+  color: var(--color-text-dakr);
+  font-size: var(--font-medium);
+  font-weight: 400;
+  margin: 20px 0 0 0;
+}
