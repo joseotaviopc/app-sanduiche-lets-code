@@ -10,14 +10,27 @@ git clone https://github.com/joseotaviopc/app-sanduiche-lets-code.git
 3. Instale as dependências.
 
 ```
+yarn
+```
+ou
+
+```
 npm install
 ```
 
 4. Execute a aplicação em modo de desenvolvimento.
 
+
+```
+yarn dev
+```
+ou
 ```
 npm run dev
 ```
+## Link da aplicação no ar
+
+[App Sanduiche](https://app-sanduiche-lets-code.vercel.app/)
 
 ## Descrição do projeto
 
